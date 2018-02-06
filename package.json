@@ -6,6 +6,12 @@
     "publisher": "zamerick",
     "repository": "https://github.com/Zamerick/black-ocean",
     "license": "MIT",
+    "keywords": [
+		"ocean",
+		"dark",
+		"black",
+		"theme"
+	],
     "engines": {
         "vscode": "^1.19.0"
     },
@@ -17,7 +23,7 @@
             {
                 "label": "Black Ocean",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Black Ocean-color-theme.json"
+                "path": "./themes/black-ocean-color-theme.json"
             }
         ]
     }
