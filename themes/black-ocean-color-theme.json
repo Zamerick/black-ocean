@@ -439,6 +439,7 @@
         }
     ],
     "colors": {
+        "foreground": "#cecece",
         // Editor
         "editor.foreground": "#dfdfdf",
         "editor.background": "#101316",
@@ -469,6 +470,7 @@
         "tab.activeBackground": "#007aae8e",
         // Editor Group
         "editorGroup.background": "#161b1f",
+        "editorGroup.border": "#3b4651",
         "editorGroupHeader.tabsBackground": "#161b1f",
         "titleBar.activeBackground": "#07090a",
         // List
@@ -478,7 +480,9 @@
         "list.inactiveSelectionBackground": "#101316",
         "list.focusBackground": "#303942",
         "editorLineNumber.foreground": "#3b4651",
+        "editorLineNumber.activeForeground": "#cecece",
         "editorIndentGuide.background": "#3b4651",
+        "editorIndentGuide.activeBackground": "#cecece",
         "editorRuler.foreground": "#252c34",
         "editorLink.activeForeground": "#007aae8e",
         // Input
@@ -497,7 +501,7 @@
         "dropdown.border": "#0c0e10",
         "dropdown.foreground": "#dfdfdf",
         "panel.background": "#0c0e10",
-        "panel.border": "#101316",
+        "panel.border": "#3b4651",
         "panelTitle.inactiveForeground": "#748aa0",
         "panelTitle.activeBorder": "#007aae8e",
         "scrollbarSlider.activeBackground": "#0079AEaa",
