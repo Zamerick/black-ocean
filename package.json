@@ -14,7 +14,7 @@
     "theme"
   ],
   "engines": {
-    "vscode": "*",
+    "vscode": "*"
   },
   "categories": [
     "Themes"
