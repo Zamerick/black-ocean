@@ -1,31 +1,31 @@
 {
-    "name": "black-ocean",
-    "version": "1.0.1",
-    "displayName": "Black Ocean",
-    "description": "Black Ocean is a dark theme for vscode with blues and greens. Heavily inspired by / based on Dayle Rees's work on Rainglow.",
-    "publisher": "zamerick",
-    "repository": "https://github.com/Zamerick/black-ocean",
-    "license": "MIT",
-    "icon": "icon.png",
-    "keywords": [
-        "ocean",
-        "dark",
-        "black",
-        "theme"
-    ],
-    "engines": {
-        "vscode": "^1.19.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Black Ocean",
-                "uiTheme": "vs-dark",
-                "path": "./themes/black-ocean-color-theme.json"
-            }
-        ]
-    }
+  "name": "black-ocean",
+  "version": "1.0.1",
+  "displayName": "Black Ocean",
+  "description": "Black Ocean is a dark theme for vscode with blues and greens. Heavily inspired by / based on Dayle Rees's work on Rainglow.",
+  "publisher": "zamerick",
+  "repository": "https://github.com/Zamerick/black-ocean",
+  "license": "MIT",
+  "icon": "icon.png",
+  "keywords": [
+    "ocean",
+    "dark",
+    "black",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "*",
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Black Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/black-ocean-color-theme.json"
+      }
+    ]
+  }
 }
