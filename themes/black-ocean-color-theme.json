@@ -5,15 +5,6 @@
         {
             "settings": {
                 "foreground": "#ffffff",
-                "selectionForeground": "#ffffff",
-                "findHighlight": "#ffe792",
-                "findHighlightForeground": "#333333",
-                "selectionBorder": "#ffffff",
-                "bracketsForeground": "#017c9d",
-                "bracketsOptions": "underline",
-                "bracketContentsForeground": "#019d76",
-                "bracketContentsOptions": "underline",
-                "tagsOptions": "stippled_underline"
             }
         },
         {
@@ -171,16 +162,13 @@
             "name": "Invalid",
             "scope": "invalid",
             "settings": {
-                "background": "#664e4d",
                 "foreground": "#cf433e",
-                "fontStyle": ""
             }
         },
         {
             "name": "Invalid deprecated",
             "scope": "invalid.deprecated",
             "settings": {
-                "background": "#664e4d",
                 "foreground": "#cf433e"
             }
         },
@@ -266,7 +254,7 @@
             "name": "Function argument",
             "scope": "meta.property-name support.type.property-name",
             "settings": {
-                "fontStyle": "normal"
+                "fontStyle": "italic"
             }
         },
         {
@@ -299,7 +287,6 @@
             ],
             "settings": {
                 "foreground": "#017c9d",
-                "fontStyle": "normal"
             }
         },
         {
@@ -307,7 +294,6 @@
             "scope": "variable.other",
             "settings": {
                 "foreground": "#ffffff",
-                "fontStyle": "normal"
             }
         },
         {
@@ -469,7 +455,6 @@
         "tab.inactiveForeground": "#66798c",
         "tab.activeBackground": "#007aae8e",
         // Editor Group
-        "editorGroup.background": "#161b1f",
         "editorGroup.border": "#3b4651",
         "editorGroupHeader.tabsBackground": "#161b1f",
         "titleBar.activeBackground": "#07090a",
@@ -519,16 +504,8 @@
         "editorBracketMatch.background": "#0079AE44",
         "editorBracketMatch.border": "#88898a",
         // Notifications
-        "notification.background": "#1b2025",
-        "notification.foreground": "#dfdfdf",
-        "notification.buttonBackground": "#007aae8e",
-        "notification.buttonForeground": "#dfdfdf",
-        "notification.infoBackground": "#9d37fc",
-        "notification.warningBackground": "#f7b83d",
-        "notification.errorBackground": "#e61f44",
-        "notification.infoForeground": "#dfdfdf",
-        "notification.warningForeground": "#dfdfdf",
-        "notification.errorForeground": "#dfdfdf",
+        "notifications.background": "#1b2025",
+        "notifications.foreground": "#dfdfdf",
         // Terminal Colors
         "terminal.background": "#101316",
         "terminal.foreground": "#dfdfdf",
@@ -548,6 +525,7 @@
         "terminal.ansiBrightMagenta": "#f3de9f",
         "terminal.ansiBrightCyan": "#00eeff",
         "terminal.ansiBrightWhite": "#e8eaec",
+        // Extension Button
         "extensionButton.prominentBackground": "#007aae8e",
         "extensionButton.prominentForeground": "#dfdfdf",
         "extensionButton.prominentHoverBackground": "#edce72",
