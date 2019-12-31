@@ -18,6 +18,28 @@ To install the extension, just use the extensions tab within VS Code and search 
 
 Clone the repository into `~/.vscode/extensions` and restart the editor.
 
+### Changelog
+
+#### 1.1.2
+
+- Consolidates similar colors to lower the amount of unique colors used in the theme from around 50 down to 20. Some minor color differences may be noticed.
+- change terminal background color to match other tabs in the lower panel.
+- brown color seen in markdown files changed to a cyan/blue, as it didnt fit with the rest of the theme.
+
+#### 1.0.2
+
+- adds demo files
+- allow all versions of vscode to use the theme
+- remove invalid/deprecated keys
+- change font from normal to italic for function arguments
+- minor fixes and improvements
+
+#### 1.0
+
+- initial release
+
+### Support Development
+
 To show support for the project, you can do any of the following:
 
 - [Star the repository.](https://github.com/Zamerick/black-ocean/stargazers)
