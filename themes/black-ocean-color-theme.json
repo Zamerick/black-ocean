@@ -3,11 +3,6 @@
     "type": "dark",
     "tokenColors": [
         {
-            "settings": {
-                "foreground": "#dfdfdf",
-            }
-        },
-        {
             "name": "Comment",
             "scope": "comment",
             "settings": {
@@ -462,7 +457,7 @@
         "list.activeSelectionBackground": "#8a9daf",
         "list.hoverBackground": "#1b2025",
         "list.activeSelectionForeground": "#101316",
-        "list.inactiveSelectionBackground": "#101316",
+        "list.inactiveSelectionBackground": "#242b31",
         "list.focusBackground": "#3b4651",
         "editorLineNumber.foreground": "#3b4651",
         "editorLineNumber.activeForeground": "#dfdfdf",
@@ -543,8 +538,8 @@
         "peekViewEditor.matchHighlightBackground": "#8a9daf",
         "peekViewResult.matchHighlightBackground": "#8a9daf",
         "editor.hoverHighlightBackground": "#007aae8e",
-        "editor.wordHighlightBackground": "#dfdfdf",
-        "editor.wordHighlightStrongBackground": "#8a9daf",
+        "editor.wordHighlightBackground": "#d2e0ff2f",
+        "editor.wordHighlightStrongBackground": "#abb2bf26",
         "editorOverviewRuler.findMatchForeground": "#8a9daf",
         "editorOverviewRuler.modifiedForeground": "#f7b83d",
         "editorOverviewRuler.addedForeground": "#a7da1e",
