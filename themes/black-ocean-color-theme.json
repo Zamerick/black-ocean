@@ -443,7 +443,7 @@
         "badge.foreground": "#dfdfdf",
         // Status Bar
         "statusBar.background": "#007aae8e",
-        "statusBar.debuggingBackground": "#f7b83d",
+        "statusBar.debuggingBackground": "#019d76",
         "statusBar.debuggingForeground": "#dfdfdf",
         "statusBar.noFolderBackground": "#8a9daf",
         "statusBar.foreground": "#dfdfdf",
