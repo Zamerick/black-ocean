@@ -19,6 +19,14 @@ To install the extension, just use the extensions tab within VS Code and search 
 Clone the repository into `~/.vscode/extensions` and restart the editor.
 
 ### Changelog
+#### 1.1.4
+
+- added neon variant theme
+- fixed debug bar not changing color.
+
+#### 1.1.3
+
+- updated README 
 
 #### 1.1.2
 
